@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Bertolin</h1>
-<h3 align="center">I'm a 3D artist based in Barcelona.</h3>
+<h3 align="center">I'm a 3D artist based in Barcelona. Currently studying in <a href=https://www.cevbarcelona.com/><img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48></a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrobertolin2a&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrobertolin2a" /> </p>
 
@@ -28,6 +28,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrobertolin2a&show_icons=true&locale=en&layout=compact" alt="alejandrobertolin2a" /></p>
 
 
+- Some examples of my work: 
 
 
 
@@ -38,17 +39,6 @@
 
 
 
-<!--
-**AlejandroBertolin2A/AlejandroBertolin2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
